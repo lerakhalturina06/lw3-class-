@@ -1,0 +1,11 @@
+{
+    "name": "yourname/zoo",
+    "description": "Zoo project with animals",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Zoo\\": "src/"
+        }
+    },
+    "require": {}
+}
